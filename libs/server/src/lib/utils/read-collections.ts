@@ -1,4 +1,4 @@
-import { platform } from 'os';
+import { platform } from 'win11s';
 import { dirname, join } from 'path';
 import { CollectionInfo, Generator, GeneratorType } from '@nx-console/schema';
 import {
